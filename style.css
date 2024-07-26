@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color:rgb(0, 0, 0) ;
+    box-sizing: border-box;
+
+}
+.header-section{
+     height: 718px;
+     margin: 50px 120px 120px 130px ; 
+     
+}
+.text-color{
+    color: #FFFFFF; 
+}
+
+ .fitness-style{
+    color: #E6533C; 
+    font-size: 30px;
+ }
+
+
+.btn-color{
+    background-color: #E6533C;
+}
+
+ .span-color{
+      background-color:  #E6533C;
+      border-radius: 40%;
+      padding: 5px 12px 5px 12px; 
+ }
+
+
+ nav{
+      display: flex;
+      justify-content: space-around;
+    
+      
+ }
+
+nav a {
+    text-decoration: none;
+    color: #FFFFFF; 
+    margin: 0px 47px 47px 47px ; 
+    text-transform: capitalize;
+
+
+
+}
